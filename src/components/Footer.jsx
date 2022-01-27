@@ -12,10 +12,10 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/deepakbhat-dev"
+          href="https://github.com/Shreesha5102"
           aria-label="My GitHub"
         >
-          Deepak Bhat
+          Shreesha Bhat
         </a>{" "}
         using <i className="fab fa-react" />
         <p>
