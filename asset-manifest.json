@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.b7b1e8d2.chunk.css",
-    "main.js": "/static/js/main.7899e8f2.chunk.js",
-    "main.js.map": "/static/js/main.7899e8f2.chunk.js.map",
+    "main.js": "/static/js/main.bc09bcf8.chunk.js",
+    "main.js.map": "/static/js/main.bc09bcf8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.35a91ad6.js",
     "runtime-main.js.map": "/static/js/runtime-main.35a91ad6.js.map",
     "static/css/2.dbd8b1e0.chunk.css": "/static/css/2.dbd8b1e0.chunk.css",
-    "static/js/2.f34e6d79.chunk.js": "/static/js/2.f34e6d79.chunk.js",
-    "static/js/2.f34e6d79.chunk.js.map": "/static/js/2.f34e6d79.chunk.js.map",
+    "static/js/2.4d61ece8.chunk.js": "/static/js/2.4d61ece8.chunk.js",
+    "static/js/2.4d61ece8.chunk.js.map": "/static/js/2.4d61ece8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e6405853a576fff83dba33ab836ecdb8.js": "/precache-manifest.e6405853a576fff83dba33ab836ecdb8.js",
+    "precache-manifest.40d72a0279ddc0a42d54b4bc1987b058.js": "/precache-manifest.40d72a0279ddc0a42d54b4bc1987b058.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.dbd8b1e0.chunk.css.map": "/static/css/2.dbd8b1e0.chunk.css.map",
     "static/css/main.b7b1e8d2.chunk.css.map": "/static/css/main.b7b1e8d2.chunk.css.map",
-    "static/js/2.f34e6d79.chunk.js.LICENSE.txt": "/static/js/2.f34e6d79.chunk.js.LICENSE.txt",
+    "static/js/2.4d61ece8.chunk.js.LICENSE.txt": "/static/js/2.4d61ece8.chunk.js.LICENSE.txt",
     "static/media/HPE-logo.png": "/static/media/HPE-logo.79863588.png",
     "static/media/shreesha_profile_pic.jpg": "/static/media/shreesha_profile_pic.547bf604.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.35a91ad6.js",
     "static/css/2.dbd8b1e0.chunk.css",
-    "static/js/2.f34e6d79.chunk.js",
+    "static/js/2.4d61ece8.chunk.js",
     "static/css/main.b7b1e8d2.chunk.css",
-    "static/js/main.7899e8f2.chunk.js"
+    "static/js/main.bc09bcf8.chunk.js"
   ]
 }
