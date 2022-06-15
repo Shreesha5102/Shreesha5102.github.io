@@ -137,8 +137,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Currently looking for oppurtunities to kick-off my career. Please feel free to contact me, or just drop a 'Hi' at",
-  email: "shreeshabhat.is18@bmsce.ac.in"
+    " Please feel free to contact me, or just drop a 'Hi' at",
+  email: "shreeshabhat510@gmail.com"
 };
 
 const experiences = {
