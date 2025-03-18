@@ -43,7 +43,7 @@ const about = {
   imageLink: require("../editable-stuff/shreesha_profile_pic.jpg"),
   imageSize: 350,
   message:
-    "Currently a final year under-graduate of Information Science and Enginnering at BMS College of Engineering. Passionate about learning new skills that can change the world of technolgy.'Never Give Up' are the words i live by. I'm a gamer, crazy about motor cycles and an enthusiastic traveller.",
+    "Cloud Developer at Hewlett Packard Enterprise with a Bachelor's degree in Information Science and Engineering from BMS College of Engineering. Passionate about learning new skills that drive technological innovation. I live by the mantra 'Never Give Up.' Beyond coding, I'm a gamer, motorcycle enthusiast, and avid traveler always seeking new adventures.",
   resume: "https://drive.google.com/file/d/1ZRs9MHzCg3ReJ6JEGq1HwojeA7tigaV2/view?usp=sharing"
 };
 
