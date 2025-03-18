@@ -40,7 +40,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/shreesha_profile_pic.jpg"),
+  imageLink: require("../editable-stuff/IMG_7387_edit.png"),
   imageSize: 350,
   message:
     "Cloud Developer at Hewlett Packard Enterprise with a Bachelor's degree in Information Science and Engineering from BMS College of Engineering. Passionate about learning new skills that drive technological innovation. I live by the mantra 'Never Give Up.' Beyond coding, I'm a gamer, motorcycle enthusiast, and avid traveler always seeking new adventures.",
@@ -89,12 +89,12 @@ const leadership = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/shreesha_profile_pic.jpg"), 
+      img: require("../editable-stuff/IMG_7387_edit.png"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/shreesha_profile_pic.jpg"), 
+      img: require("../editable-stuff/IMG_7387_edit.png"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     }
